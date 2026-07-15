@@ -4,7 +4,7 @@
 // This file is provided for you — you should NOT need to change it. Use
 // `searchCities` to power your search box, then hand the chosen result's
 // { lat, lng } to the weather API.
-import { GeocodingResult } from "../types";
+import type { GeocodingResult } from "../types";
 
 const PHOTON_BASE_URL = "https://photon.komoot.io";
 
