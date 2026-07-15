@@ -62,6 +62,7 @@ guide your work.
 
 ## Submitting
 
-Submit your completed assessment
+Submit your completed assessment on the application form. It'll receive a preliminary score from the autograder.
+If you have any questions, please reach out!
 
 Good luck! We look forward to seeing your work.
